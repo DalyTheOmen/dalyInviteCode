@@ -1,7 +1,6 @@
 #script name= dalyInviteCode
 #version = 1.0 -- 2018
-#Author = --Medali Cimpress_SOC
-#maybe u can found the solution at the net but u will can't found my script...
+#Author = Daly The Omen
 import requests as req
 import codecs
 import json
