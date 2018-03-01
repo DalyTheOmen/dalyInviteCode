@@ -1,6 +1,7 @@
 #script name= dalyInviteCode
 #version = 1.0 -- 2018
 #Author = Daly The Omen
+#if u think this script was easy , try to get invite code without it ...:) 
 import requests as req
 import codecs
 import json
